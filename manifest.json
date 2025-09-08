@@ -35,10 +35,12 @@
     "platform_tools": {
 
         "x86_64": {
+            "_35_0_1": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/v34.0.4/platform-tools-34.0.4-x86_64.tar.xz",
             "_34_0_4": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/v34.0.4/platform-tools-34.0.4-x86_64.tar.xz"
         },
 
         "aarch64": {
+            "_35_0_1": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/v34.0.4/platform-tools-34.0.4-aarch64.tar.xz".
             "_34_0_4": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/v34.0.4/platform-tools-34.0.4-aarch64.tar.xz",
             "_34_0_3": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/v34.0.3/platform-tools-34.0.3-aarch64.tar.xz",
             "_34_0_1": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/v34.0.1/platform-tools-34.0.1-aarch64.tar.xz",
@@ -48,6 +50,7 @@
         },
 
         "arm": {
+            "_35_0_1": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/v34.0.4/platform-tools-34.0.4-arm.tar.xz",
             "_34_0_4": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/v34.0.4/platform-tools-34.0.4-arm.tar.xz",
             "_34_0_3": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/v34.0.3/platform-tools-34.0.3-arm.tar.xz",
             "_34_0_1": "https://github.com/AndroidIDEOfficial/androidide-tools/releases/download/v34.0.1/platform-tools-34.0.1-arm.tar.xz",
